@@ -1,7 +1,7 @@
 
 ## NLP Engineer & Algorithmic Trader
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> Hey there, I'm Jeremy. I specialize in:
-* Natural Language Processing
+* Natural Language Processing (NLP)
 * Active learning and rapid annotation
 * Algorithmic trading
 * Financial NLP & AI
@@ -13,7 +13,7 @@ I also offer freelance AI consultancy services for small businesses that want to
 
 
 ## Main projects
-### Tools for NLP:
+### NLP
 I'm a firm believer that NLP, as a field, does not need bigger transformers. What it needs to break the current research and industry bottlenecks are new architectures and solutions that enable models to use knowledge rapidly and reliably.   
 <p align="left">
   <a href="https://github.com/jeremytanjianle/bibliqal"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=bibliqal&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="TSstudio"></a>
@@ -24,7 +24,7 @@ I'm a firm believer that NLP, as a field, does not need bigger transformers. Wha
   <a href="https://github.com/jeremytanjianle/event-extraction-oneie"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=event-extraction-oneie&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="USgas"></a>
 </p>
 
-### Algorithmic trading tools:
+### Algorithmic trading 
 Active algorithmic trader since 2017. I believe algorithmic trading is part common sense, part engineering, with only a pinch of data mining.  
 <p align="left">
   <a href="https://github.com/jeremytanjianle/Bayesian-Regression-on-Copper"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=Bayesian-Regression-on-Copper&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coronavirus"></a>
