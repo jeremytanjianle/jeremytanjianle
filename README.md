@@ -30,7 +30,13 @@ Active algorithmic trader since 2017. I believe algorithmic trading is part comm
   <a href="https://github.com/jeremytanjianle/Bayesian-Regression-on-Copper"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=Bayesian-Regression-on-Copper&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coronavirus"></a>
   <a href="https://github.com/jeremytanjianle/intraday-fx-dynamics"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=intraday-fx-dynamics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coronavirus_dashboard"></a>
 </p>
-<img src="images/October-21-performance.jpeg" width="100%" align="center"/></a>
+Recently created a new breed of long short strategies which are probably my finest work yet. Out of sample backtest results below. Profit factor at 1.33 and AAR/MDD at 0.85.</a>
+</p>
+(Insert backtest results here.)</a>
+</p>
+Live forward testing of one breed of algorithms. It earned 5.3% over a little more than two weeks from 18th Oct to 8 November. After which, the algorithms were integrated into my main portfolio and proceeded to earn 13.9% for the rest of 2021, despite the Omicron news and expected Fed rate hikes. </a>
+</p>
+<img src="images/live-testing-oct-2021.PNG" width="100%" align="center"/></a>
 </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jeremytanjianle&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="ramikrispin" />
