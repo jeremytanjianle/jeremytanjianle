@@ -36,7 +36,7 @@ Recently created a new breed of long short strategies which are probably my fine
 </p>
 Live forward testing of one breed of algorithms. It earned 5.3% over a little more than two weeks from 18th Oct to 8 November. After which, the algorithms were integrated into my main portfolio and proceeded to earn 13.9% for the rest of 2021, despite the Omicron news and expected Fed rate hikes. </a>
 </p>
-<img src="images/live-testing-oct-2021.PNG" width="100%" align="center"/></a>
+<img src="images/live-testing-oct-2021.png" width="100%" align="center"/></a>
 </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jeremytanjianle&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="ramikrispin" />
