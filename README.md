@@ -29,16 +29,19 @@ There has to be more to data science and machine learning than simply `magic.fit
 </p>
 
 ### Algorithmic trading 
-Active algorithmic trader since 2017. I believe algorithmic trading is part common sense, part engineering, with only a pinch of data mining.  
+Active algorithmic trader since 2017. I use ML-powered long short trading strategies. I believe algorithmic trading is part common sense, part engineering, with with very little data mining. I've learnt many expensive lessons, but the most expensive is that that machine learning must be used in very small amounts for trading. <b>Less is more.</b>  
+ Out of sample backtest results and live results below </a>   
 <p align="left">
   <a href="https://github.com/jeremytanjianle/Bayesian-Regression-on-Copper"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=Bayesian-Regression-on-Copper&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="bayesian-regression"></a>
   <a href="https://github.com/jeremytanjianle/intraday-fx-dynamics"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=intraday-fx-dynamics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="intraday-fx"></a>
 </p>
-I use ML-powered long short trading strategies. Out of sample results below </a>
+
 </p>
+<b> Out-of-sample backtest results. </b> </br>
+ Equity graph is non-compounded and unleveraged. Metrics are compounded and unleveraged. Commissions included.
 <img src="images/OOS.png" width="100%" align="center"/></a>
 </p>
-<b> Live results below. </b>
+<b> Live trading results. </b> </br>
 Strategy earned 5.3% over ~3 weeks from 18th Oct to 8th Nov. After which, the algorithms were integrated into my main portfolio and proceeded to earn 13.9% from 18th Oct to the rest of 2021, despite the Omicron news and expected Fed rate hikes. </br>  </a>
 </p>
 <img src="images/live-testing-oct-2021.png" width="100%" align="center"/></a>
