@@ -38,9 +38,10 @@ I use ML-powered long short trading strategies. Out of sample results below </a>
 </p>
 <img src="images/OOS.png" width="100%" align="center"/></a>
 </p>
-Strategy earned 5.3% over ~3 weeks from 18th Oct to 8th Nov. After which, the algorithms were integrated into my main portfolio and proceeded to earn 13.9% from 18th Oct to the rest of 2021, despite the Omicron news and expected Fed rate hikes. </br> <b> Live results below. </b> </a>
+<b> Live results below. </b>
+Strategy earned 5.3% over ~3 weeks from 18th Oct to 8th Nov. After which, the algorithms were integrated into my main portfolio and proceeded to earn 13.9% from 18th Oct to the rest of 2021, despite the Omicron news and expected Fed rate hikes. </br>  </a>
 </p>
 <img src="images/live-testing-oct-2021.png" width="100%" align="center"/></a>
 </p>
-
+If you're a retail trader out there trying to get profitable, I want to encourage you... it is possible, it can be done!
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jeremytanjianle&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="jeremytanjianle" />
