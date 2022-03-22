@@ -16,12 +16,16 @@ I also offer freelance AI consultancy services for small businesses that want to
 ### NLP
 I'm a firm believer that NLP, as a field, does not need bigger transformers. What it needs to break the current research and industry bottlenecks are new architectures and solutions that enable models to use knowledge rapidly and reliably.   
 <p align="left">
+  <a href="https://github.com/aimakerspace/goldenretriever"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aimakerspace&repo=goldenretriever&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="TSstudio"></a>
   <a href="https://github.com/jeremytanjianle/bibliqal"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=bibliqal&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="TSstudio"></a>
     <a href="https://github.com/jeremytanjianle/fasttext-in-pytorch"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=fasttext-in-pytorch&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="UKgrid"></a>
-  <a href="https://github.com/jeremytanjianle/dan-etm"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=dan-etm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="USgrid"></a>
-  <a href="https://github.com/jeremytanjianle/train-from-home-transformer"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=train-from-home-transformer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="USgas"></a>
-  <a href="https://github.com/jeremytanjianle/kw-question-generator"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=kw-question-generator&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="USgrid"></a>
   <a href="https://github.com/jeremytanjianle/event-extraction-oneie"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=event-extraction-oneie&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="USgas"></a>
+</p>
+
+### Data science
+There has to be more to data science and machine learning than simply `magic.fit(X,y)`. Here, let me share some secret sauce with you. 
+<p align="left">
+  <a href="https://github.com/jeremytanjianle/xyZee"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=xyZee&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" ></a>
 </p>
 
 ### Algorithmic trading 
@@ -34,7 +38,7 @@ Recently created a new breed of long short strategies which are probably my fine
 </p>
 (Insert backtest results here.)</a>
 </p>
-Live forward testing of one breed of algorithms. It earned 5.3% over a little more than two weeks from 18th Oct to 8 November. After which, the algorithms were integrated into my main portfolio and proceeded to earn 13.9% for the rest of 2021, despite the Omicron news and expected Fed rate hikes. </a>
+Live forward testing of one breed of algorithms. It earned 5.3% over ~3 weeks from 18th Oct to 8th Nov. After which, the algorithms were integrated into my main portfolio and proceeded to earn 13.9% from 18th Oct to the rest of 2021, despite the Omicron news and expected Fed rate hikes. </a>
 </p>
 <img src="images/live-testing-oct-2021.png" width="100%" align="center"/></a>
 </p>
