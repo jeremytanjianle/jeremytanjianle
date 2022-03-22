@@ -34,11 +34,11 @@ Active algorithmic trader since 2017. I believe algorithmic trading is part comm
   <a href="https://github.com/jeremytanjianle/Bayesian-Regression-on-Copper"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=Bayesian-Regression-on-Copper&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="bayesian-regression"></a>
   <a href="https://github.com/jeremytanjianle/intraday-fx-dynamics"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=intraday-fx-dynamics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="intraday-fx"></a>
 </p>
-Recently created a new breed of long short strategies which are probably my finest work yet. Out of sample backtest results below. Profit factor at 1.33 and AAR/MDD at 0.85.</a>
+I use ML-powered long short trading strategies. Out of sample results below </a>
 </p>
-(Insert backtest results here.)</a>
+<img src="images/OOS.png" width="100%" align="center"/></a>
 </p>
-Live forward testing of one breed of algorithms. It earned 5.3% over ~3 weeks from 18th Oct to 8th Nov. After which, the algorithms were integrated into my main portfolio and proceeded to earn 13.9% from 18th Oct to the rest of 2021, despite the Omicron news and expected Fed rate hikes. </a>
+Strategy earned 5.3% over ~3 weeks from 18th Oct to 8th Nov. After which, the algorithms were integrated into my main portfolio and proceeded to earn 13.9% from 18th Oct to the rest of 2021, despite the Omicron news and expected Fed rate hikes. </br> <b> Live results below. </b> </a>
 </p>
 <img src="images/live-testing-oct-2021.png" width="100%" align="center"/></a>
 </p>
