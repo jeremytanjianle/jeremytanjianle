@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <font size="20"> Hey there, I'm Jeremy. </font>
-* I specialize in Natural Language Processing (NLP), Active learning and rapid annotation, Algorithmic trading, Financial NLP & AI
-* I typically work with python (as well as the popular data science, machine learning packages), DVC, elasticsearch and docker.
+# Hey there, I'm Jeremy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+* I specialize in Natural Language Processing (NLP), Active learning & rapid annotation and Algorithmic trading
+* I typically work with python, torch, SpaCy, Prodigy, transformers, DVC, elasticsearch and docker.
 
 🔗 &nbsp;**Contact me on:**  
 <a href="https://www.linkedin.com/in/jeremy-tan-jianle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
@@ -23,7 +23,7 @@ There has to be more to data science and machine learning than simply `magic.fit
 </p>
 
 ### Algorithmic trading 
-Active algorithmic trader since 2017. The most expensive is that that machine learning must be used in very small amounts for trading. <b>Less is more.</b>  
+Active algorithmic trader since 2017. The most expensive lesson I've learnt is that that machine learning must be used in very small amounts for trading. <b>Less is more.</b>  
 <p align="left">
   <a href="https://github.com/jeremytanjianle/Bayesian-Regression-on-Copper"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=Bayesian-Regression-on-Copper&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="bayesian-regression"></a>
   <a href="https://github.com/jeremytanjianle/intraday-fx-dynamics"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=intraday-fx-dynamics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="intraday-fx"></a>
