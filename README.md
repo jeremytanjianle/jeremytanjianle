@@ -1,4 +1,4 @@
-# Hey there, I'm Jeremy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12px">
+## Hey there, I'm Jeremy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 * I specialize in Natural Language Processing (NLP), Active learning & rapid annotation and Algorithmic trading
 * I typically work with python, torch, SpaCy, Prodigy, transformers, DVC, elasticsearch and docker.
 
