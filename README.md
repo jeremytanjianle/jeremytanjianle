@@ -35,7 +35,7 @@ Active algorithmic trader since 2017. The most expensive lesson I've learnt is t
 <img src="images/OOS.png" width="100%" align="center"/></a>
 
 ### Live trading results. (Verified on myfxbook.com)   </br>
-Strategy earned 5.3% over ~3 weeks from 18th Oct to 8th Nov. After which, the algorithms were integrated into my main portfolio and proceeded to earn 13.9% from 18th Oct to the rest of 2021, despite the Omicron news and expected Fed rate hikes. </br>  </a>
+Strategy earned 5.3% over ~3 weeks from 18th Oct to 8th Nov. After which, the algorithms were integrated into my main portfolio. </br>  </a>
 </p>
 <img src="images/live-testing-oct-2021.png" width="100%" align="center"/></a>
 </p>
