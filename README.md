@@ -30,11 +30,30 @@ Active algorithmic trader since 2017. The most expensive lesson I've learnt is t
 </p>
 
 
+# Trading Updates
+## Jul-Dec 2022: Low-Beta Strategies
+Pleased to share trading results achieving 20.91% over 2022, as verified on myfxbook.com on a live account.
+
+In Nov-Dec 2021, my systems indicated a distinct regime change, so I stopped what I was doing and set out to re-strategize specifically for this years context. This took a long 6 months and the resulting product launched from July to December with a break in October. Results in picture below.
+
+My reflections from trading 2022:
+1. Re-strategizing was rewarding but also time-consuming. Can it be done efficiently?
+2. Are there better ways to integrate macroeconomic outlook into algorithmic trading?
+3. Negative correlation to the S&P500 is achieved, but low intra-portfolio correlation is not guaranteed. In early November, all strategies were red, leading to a 6% drawdown.
+4. I took a break in October, which according to my backtests, would have been a great month that would have helped offset the drawdown in early November. If success of algorithmic trading = capital * skill * time; I'll have to psychologically strengthen myself to not take long breaks. 
+
+ </br>  </a>
+</p>
+<img src="images/2022results2.png" width="100%" align="center"/></a>
+</p>
+
+## Oct 2021: A new breed of trading algorithms
 ### Out-of-sample backtest results.  </br>
  Equity graph is non-compounded and unleveraged. Metrics are compounded and unleveraged. Commissions included.
 <img src="images/OOS.png" width="100%" align="center"/></a>
 
 ### Live trading results. (Verified on myfxbook.com)   </br>
+
 Strategy earned 5.3% over ~3 weeks from 18th Oct to 8th Nov. After which, the algorithms were integrated into my main portfolio. </br>  </a>
 </p>
 <img src="images/live-testing-oct-2021.png" width="100%" align="center"/></a>
