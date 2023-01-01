@@ -32,15 +32,15 @@ Active algorithmic trader since 2017. The most expensive lesson I've learnt is t
 
 # Trading Updates
 ## Jul-Dec 2022: Low-Beta Strategies
-Pleased to share trading results achieving 20.91% over 2022, as verified on myfxbook.com on a live account.
+Grateful to achieve trading returns of +20.91% over 2022, as verified on myfxbook.com on a live account.
 
-In Nov-Dec 2021, my systems indicated a distinct regime change, so I stopped what I was doing and set out to re-strategize specifically for this years context. This took a long 6 months and the resulting product launched from July to December with a break in October. Results in picture below.
+In Nov-Dec 2021, my systems detected a distinct regime change, so I stopped what I was doing and re-strategized. This took a long 6 months. Resulting system performance in picture below.
 
 My reflections from trading 2022:
 1. Re-strategizing was rewarding but also time-consuming. Can it be done efficiently?
 2. Are there better ways to integrate macroeconomic outlook into algorithmic trading?
-3. Negative correlation to the S&P500 is achieved, but low intra-portfolio correlation is not guaranteed. In early November, all strategies were red, leading to a 6% drawdown.
-4. I took a break in October, which according to my backtests, would have been a great month that would have helped offset the drawdown in early November. If success of algorithmic trading = capital * skill * time; I'll have to psychologically strengthen myself to not take long breaks. 
+3. Negative correlation to the S&P500 is achieved, but low intra-portfolio correlation is not guaranteed. In mid November, all strategies were red, leading to a 6% drawdown.
+4. Returns = capital * skill * TIME. I took a break in October, which according to my backtests, would have been a great month (<6%) that would have helped offset the drawdown in mid November. What a waste. I'll need a psychological system to not take long breaks.
 
  </br>  </a>
 </p>
