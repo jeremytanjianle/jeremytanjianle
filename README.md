@@ -42,6 +42,8 @@ My reflections from trading 2022:
 3. Negative correlation to the S&P500 is achieved, but low intra-portfolio correlation is not guaranteed. In mid November, all strategies were red, leading to a 6% drawdown.
 4. Returns = capital * skill * TIME. I took a break in October, which according to my backtests, would have been a great month (<6%) that would have helped offset the drawdown in mid November. What a waste. I'll need a psychological system to not take long breaks.
 
+PS: I feel discomfort publically sharing trading results because it feels egotistical and I personally wished I did better... But I went through all the trouble of doing this, and would love to find friends in the same element. So if you've read all the way down here, do chat with me!
+
  </br>  </a>
 </p>
 <img src="images/2022results2.png" width="100%" align="center"/></a>
