@@ -31,22 +31,18 @@ Active algorithmic trader since 2017. The most expensive lesson I've learnt is t
 
 
 # Trading Updates
-## Jul-Dec 2022: Low-Beta Strategies
-Grateful to achieve trading returns of +20.91% over 2022, as verified on myfxbook.com on a live account.
+## Jul 2022 - Feb 2023: Low-Beta Strategies
+Grateful to achieve trading returns of +29.2% over the last 6 months, as verified on myfxbook.com on a live account.
 
-In Nov-Dec 2021, my systems detected a distinct regime change, so I stopped what I was doing and re-strategized. This took a long 6 months. Resulting system performance in picture below.
+My reflections from trading the past year:
+1. Is there a way to be economically nimble during trading?
+2. Negative correlation to the S&P500 is achieved, but low intra-portfolio correlation is not guaranteed. In mid November, all strategies were red, leading to a 6% drawdown.
+3. Returns = capital * skill * TIME. Due to a long break, the effect trading time was actually 5 months. To allow a strategy to yield high returns, it must be given the time to do so. 
 
-My reflections from trading 2022:
-1. Re-strategizing was rewarding but also time-consuming. Can it be done efficiently?
-2. Are there better ways to integrate macroeconomic outlook into algorithmic trading?
-3. Negative correlation to the S&P500 is achieved, but low intra-portfolio correlation is not guaranteed. In mid November, all strategies were red, leading to a 6% drawdown.
-4. Returns = capital * skill * TIME. I took a break in October, which according to my backtests, would have been a great month (<6%) that would have helped offset the drawdown in mid November. What a waste. I'll need a psychological system to not take long breaks.
-
-PS: I feel discomfort publically sharing trading results because it feels egotistical and I personally wished I did better... But I went through all the trouble of doing this, and would love to find friends in the same element. So if you've read all the way down here, do chat with me!
 
  </br>  </a>
 </p>
-<img src="images/2022results2.png" width="100%" align="center"/></a>
+<img src="images/End Feb Trading Results.png" width="100%" align="center"/></a>
 </p>
 
 ## Oct 2021: A new breed of trading algorithms
