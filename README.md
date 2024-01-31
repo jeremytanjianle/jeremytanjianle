@@ -16,12 +16,6 @@ Maybe NLP, as a whole, does not really need bigger transformers. Maybe it needs 
   <a href="https://github.com/jeremytanjianle/event-extraction-oneie"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=event-extraction-oneie&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="oneie"></a>
 </p>
 
-### Data science
-There has to be more to data science and machine learning than simply `magic.fit(X,y)`.  
-<p align="left">
-  <a href="https://github.com/jeremytanjianle/xyZee"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=xyZee&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="xyZee"></a>
-</p>
-
 ### Algorithmic trading  
 Active algorithmic trader since 2017. The most expensive lesson I've learnt is that that machine learning must be used in very small amounts for trading. <b>Less is more.</b>  
 <p align="left">
@@ -29,31 +23,6 @@ Active algorithmic trader since 2017. The most expensive lesson I've learnt is t
   <a href="https://github.com/jeremytanjianle/intraday-fx-dynamics"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremytanjianle&repo=intraday-fx-dynamics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="intraday-fx"></a>
 </p>
 
+---
 
-# Trading Updates
-## Jul 2022 - Feb 2023: Low-Beta Strategies
-Grateful to achieve trading returns of +29.2% over the last 6 months, as verified on myfxbook.com on a live account.
-
-My reflections from trading the past year:
-1. Is there a way to be economically nimble during trading?
-2. Negative correlation to the S&P500 is achieved, but low intra-portfolio correlation is not guaranteed. In mid November, all strategies were red, leading to a 6% drawdown.
-3. Returns = capital * skill * TIME. Due to a long break, the effect trading time was actually 5 months. To allow a strategy to yield high returns, it must be given the time to do so. 
-
-
- </br>  </a>
-</p>
-<img src="images/End Feb Trading Results.png" width="100%" align="center"/></a>
-</p>
-
-## Oct 2021: A new breed of trading algorithms
-### Out-of-sample backtest results.  </br>
- Equity graph is non-compounded and unleveraged. Metrics are compounded and unleveraged. Commissions included.
-<img src="images/OOS.png" width="100%" align="center"/></a>
-
-### Live trading results. (Verified on myfxbook.com)   </br>
-
-Strategy earned 5.3% over ~3 weeks from 18th Oct to 8th Nov. After which, the algorithms were integrated into my main portfolio. </br>  </a>
-</p>
-<img src="images/live-testing-oct-2021.png" width="100%" align="center"/></a>
-</p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jeremytanjianle&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="jeremytanjianle" />
